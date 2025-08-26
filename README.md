@@ -26,16 +26,12 @@ I enjoy connecting **UI/UX design with development** through **Figma** and moder
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff)  
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff)  
 
-**Architectures & Paradigms**  
-![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=architectural-design&logoColor=fff)  
+**Architectures & Paradigms**   
 ![REST](https://img.shields.io/badge/-REST-02569B?logo=apachesuperset&logoColor=fff)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=fff)  
 
@@ -48,18 +44,10 @@ I enjoy connecting **UI/UX design with development** through **Figma** and moder
 
 ---
 
-## 🔗 Support My Work  
-If you’d like to support my projects:  
-☕ [Buy me a coffee](https://www.buymeacoffee.com/)  
-💰 [Paypal](https://paypal.me/yourlink)  
-
----
-
 ## 🤝 Let's Connect  
-🌐 [Portfolio](https://yourportfolio.com)  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-📧 [Email](mailto:yourmail@example.com)  
+🌐 [Portfolio](https://drive.google.com/file/d/1y_033cNRFdwYnQtc6_-iRKcHuMuFMlnU/view?usp=drive_link)  
+💼 [LinkedIn](https://www.linkedin.com/in/behzod-salamov-995916243/)   
+📧 [Email](salamov.behzod@gmail.com)  
 
 ---
 ✨ *“Code with passion, build with purpose.”*  
