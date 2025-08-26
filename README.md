@@ -37,13 +37,6 @@ I enjoy connecting **UI/UX design with development** through **Figma** and moder
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar-bek&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-bek&layout=compact&theme=radical)  
-
----
-
 ## 🤝 Let's Connect  
 🌐 [Portfolio](https://drive.google.com/file/d/1y_033cNRFdwYnQtc6_-iRKcHuMuFMlnU/view?usp=drive_link)  
 💼 [LinkedIn](https://www.linkedin.com/in/behzod-salamov-995916243/)   
