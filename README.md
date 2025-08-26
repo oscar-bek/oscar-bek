@@ -13,7 +13,9 @@ I enjoy connecting **UI/UX design with development** through **Figma** and moder
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=fff)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
 
 **Frameworks & Libraries**  
